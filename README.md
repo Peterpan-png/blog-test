@@ -17,9 +17,9 @@
     </ol>
     学过的编程语言有>/CSS/HTML/js
         @keyframes mymove{
-            0 {
+        0{
             background-color:red;
-            }
+         }
             
             100%{
                background-color:blue;

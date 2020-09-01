@@ -15,5 +15,5 @@
         <li>郭建华</li>
         <li>梁朝伟</li>
     </ol>
-    <p>学过的编程语言有><em>CSS</em><em>HTML</em<em>js</em</p>
+    <p>学过的编程语言有>/CSS/HTML/js
     

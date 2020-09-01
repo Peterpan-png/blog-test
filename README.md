@@ -20,8 +20,3 @@
         0{
             background-color:red;
          }
-            
-            100%{
-               background-color:blue;
-            }
-        }

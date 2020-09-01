@@ -1,17 +1,24 @@
-＃ 介绍下自己
-大家好，我是老马
-
-<ul>
-  <li>唱</li>
-  <li>跳</li>
-  <li>吃鸡</li>
- <ul>
-
-我的前女友有
-
-1.胡歌
-2.郭建华
-3.梁朝伟
-
-学过的编程语言有`HTML`  `CSS`  `JavaScript`。
-
+<h1>介绍下自己</h1>
+    <p>大家好，我是老马</p>
+    <p>我的爱好有很多</p>
+    <ul>
+        <li>唱</li>
+        <li>跳</li>
+        <li>rap</li>
+        <li>打</li>
+        <li>篮</li>
+        <li>球</li>
+    </ul>
+    <p>我的女朋友有</p>
+    <ol>
+        <li>胡歌</li>
+        <li>郭建华</li>
+        <li>梁朝伟</li>
+    </ol>
+    <p>学过的编程语言有><em>CSS</em><em>HTML</em<em>js</em</p>
+    <script>
+    <javascript>
+    function f(){
+    console.log('hello world')
+    }
+    </javascript>

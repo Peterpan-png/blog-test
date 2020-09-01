@@ -16,9 +16,4 @@
         <li>梁朝伟</li>
     </ol>
     <p>学过的编程语言有><em>CSS</em><em>HTML</em<em>js</em</p>
-    <script>
-    <javascript>
-    function f(){
-    console.log('hello world')
-    }
-    </javascript>
+    
